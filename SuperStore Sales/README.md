@@ -42,3 +42,5 @@ This is a dynamic and interactive **Sales Dashboard** built using **Power BI** a
 3. Interact with filters and visuals to explore insights.
 
 ## 📸 Preview  
+
+![Image Description](https://github.com/jaytamkhane/Brainwave-Internship-Projects/blob/main/SuperStore%20Sales/Images/Dashboard%20.png)
